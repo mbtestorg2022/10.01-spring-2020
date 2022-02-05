@@ -44,15 +44,64 @@ Grading
 
 You are required to do the readings before class; you will be called upon to participate in class discussions, for which you will be graded.
 
-| ActivitIES | EXPECTATIONS | PERCENTAGE OF GRADE |
-| --- | --- | --- |
-| Weekly written assignments | Each week starting the second week of class, students must answer each study question in a paragraph or so in the body of an email. These assignments are due each week at 11:59 pm the night before class. | 55% |
-| Classroom participation | Students are required to attend class and are expected to make contributions to class discussion. | 30% |
-| Oral final question and discussion | Students will present a brief analysis of a chosen question with discussion (see last class period). | 15% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ActivitIES
+{{< thclose >}}
+{{< thopen >}}
+EXPECTATIONS
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGE OF GRADE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Weekly written assignments
+{{< tdclose >}}
+{{< tdopen >}}
+Each week starting the second week of class, students must answer each study question in a paragraph or so in the body of an email. These assignments are due each week at 11:59 pm the night before class.
+{{< tdclose >}}
+{{< tdopen >}}
+55%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Classroom participation
+{{< tdclose >}}
+{{< tdopen >}}
+Students are required to attend class and are expected to make contributions to class discussion.
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral final question and discussion
+{{< tdclose >}}
+{{< tdopen >}}
+Students will present a brief analysis of a chosen question with discussion (see last class period).
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Note: Please print out all materials that you might need in class. No electronic equipment may be used in class. Absolutely NO TEXTING allowed in class.
 
 Requirements for Students Taking Higher-Credit Versions of the Course
 ---------------------------------------------------------------------
 
-Two higher-credit versions of the course (6.9041 and 20.005) are offered in addition to the regular 6-credit version. Students enrolled in these versions of the course are required to complete extra work. For details on the expectations for this work, see the [Assignments](/courses/10-01-ethics-for-engineers-spring-2020/pages/assignments) page.
+Two higher-credit versions of the course (6.9041 and 20.005) are offered in addition to the regular 6-credit version. Students enrolled in these versions of the course are required to complete extra work. For details on the expectations for this work, see the [Assignments]({{< baseurl >}}/pages/assignments) page.
