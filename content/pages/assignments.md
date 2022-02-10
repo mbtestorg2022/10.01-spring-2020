@@ -1,13 +1,16 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
 title: Assignments
+type: CourseSection
 uid: ffa37a46-20f2-af2f-f24a-658af48d155b
 ---
 
 Weekly Writing Assignments
 --------------------------
 
-Each week starting the second week of class, students must answer each of the [study questions](/courses/10-01-ethics-for-engineers-spring-2020/pages/calendar) in a paragraph or so in the body of an email. These assignments are due each week at 11:59 pm the night before class.
+Each week starting the second week of class, students must answer each of the [study questions]({{< baseurl >}}/pages/calendar) in a paragraph or so in the body of an email. These assignments are due each week at 11:59 pm the night before class.
 
 Requirements for Students Taking the Course for More than 6 Units
 -----------------------------------------------------------------
